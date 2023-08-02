@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin-sid&show_icons=true&locale=en&layout=compact" alt="Mohsin-sid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhsin-sid&show_icons=true&locale=en" alt="Mohsin-sid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsin-sid&show_icons=true&locale=en" alt="Mohsin-sid" /></p>
