@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <marquee>Welcome To My GitHub Profile</marquee>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtushar900&label=Profile%20views&color=0e75b6&style=flat" alt="iamtushar900" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtushar900&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin-sid" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
