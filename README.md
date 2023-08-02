@@ -1,5 +1,5 @@
 <img src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif"/>
-<h1 align="center">Hi 👋, I'm Tushar Md Mohsin</h1>
+<h1 align="center">Hi 👋, I'm  Md Mohsin</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <marquee>Welcome To My GitHub Profile</marquee>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
